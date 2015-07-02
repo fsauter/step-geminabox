@@ -11,25 +11,25 @@ properties:
     required: true
   name:
     type: string
-    default: *.gem
+    default: '*.gem'
     required: false
   port:
     type: string
-    default: 80
+    default: '80'
     required: false
   overwrite:
     type: string
-    default: false
+    default: 'false'
     required: false
   build:
     type: string
-    default: true
+    default: 'true'
     required: false
   build_name:
     type: string
-    default: *.gemspec
+    default: '*.gemspec'
     required: false
   install_version:
     type: string
-    default: 0.12.4
+    default: '0.12.4'
     required: false
