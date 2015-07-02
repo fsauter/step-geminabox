@@ -17,14 +17,14 @@ This is an step to deploy/push your new gems to geminabox.
 # Examples
 
 ``` yaml
-build:
+deploy:
   steps:
     - fsauter/step-geminabox:
       host: http://user:password@myhost.com:9292
 ```
 
 ``` yaml
-build:
+deploy:
   steps:
     - fsauter/step-geminabox:
       host: http://user:password@myhost.com:9292
@@ -32,7 +32,7 @@ build:
 ```
 
 ``` yaml
-build:
+deploy:
   steps:
     - fsauter/step-geminabox:
       host: http://user:password@myhost.com
@@ -40,7 +40,7 @@ build:
 ```
 
 ``` yaml
-build:
+deploy:
   steps:
     - fsauter/step-geminabox:
       host: http://user:password@myhost.com:9292
@@ -48,7 +48,7 @@ build:
 ```
 
 ``` yaml
-build:
+deploy:
   steps:
     - fsauter/step-geminabox:
       host: http://user:password@myhost.com:9292
