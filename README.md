@@ -2,7 +2,7 @@
 
 This is an step to deploy/push your new gems to geminabox.
 
-[![wercker status](https://app.wercker.com/status/14ca0165291ac704e81a6c4aac7fd0f6/m "wercker status")](https://app.wercker.com/project/bykey/14ca0165291ac704e81a6c4aac7fd0f6)
+[![wercker status](https://app.wercker.com/status/c2a851801cc4d63fffb353dffefbd69f/m "wercker status")](https://app.wercker.com/project/bykey/c2a851801cc4d63fffb353dffefbd69f)
 
 # Options
 
