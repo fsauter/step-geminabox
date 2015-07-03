@@ -10,7 +10,7 @@ install_geminabox() {
     # Install bundler gem if needed
     if ! type geminabox &> /dev/null; then
          info 'geminabox gem not found, starting installing it';
-         sudo gem install geminabox --no-rdoc --no-ri --version "$WERCKER_GEMINABOX_INSTALL_VERSION";
+         sudo gem install geminabox --no-rdoc --no-ri --version "$WERCKER_GEMINABOX_INABOX_VERSION";
 
          if [[ $? -ne 0 ]]; then
              fail 'geminabox gem installation failed';

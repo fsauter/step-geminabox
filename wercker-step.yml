@@ -1,5 +1,5 @@
 name: geminabox
-version: 0.1.0
+version: 0.1.1
 description: geminabox step
 keywords:
   - geminabox
@@ -29,7 +29,7 @@ properties:
     type: string
     default: '*.gemspec'
     required: false
-  install_version:
+  inabox_version:
     type: string
     default: '0.12.4'
     required: false
